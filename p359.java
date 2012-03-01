@@ -1,6 +1,13 @@
+ /**
+  * @author 1n7erface7h1s 
+  * @email 1n7erface7h1s@gmail.com
+  * 
+  * I affirm that this program is entirely my own work and none of it is the work of any other person.
+  */ 
 import java.util.*;
 import java.math.BigInteger;
 
+//underconstruction
 public class p359 {
 
     static ArrayList<ArrayList<Long>> hilHot = new ArrayList<ArrayList<Long>>();
@@ -52,9 +59,6 @@ public class p359 {
         }
             while(f <= Integer.MAX_VALUE);
         
-        
-        
-        System.out.print("Holy Shit, done."); */
     } 
         
       
