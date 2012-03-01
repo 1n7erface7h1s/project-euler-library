@@ -1,6 +1,9 @@
-/**
- * @author aigeekster
- */
+ /**
+  * @author 1n7erface7h1s 
+  * @email 1n7erface7h1s@gmail.com
+  * 
+  * I affirm that this program is entirely my own work and none of it is the work of any other person.
+  */ 
 
 import java.util.*;
 import javax.swing.*;
@@ -11,7 +14,7 @@ public class p2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         
         ArrayList<Integer> init = new ArrayList<Integer>();
         init.add(1); init.add(2);
