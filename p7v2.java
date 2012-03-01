@@ -67,7 +67,6 @@ public class p7v2 {
     
     
     public static void main(String[] args) {
-        // TODO code application logic here
       
         p7v2 p = new p7v2();
         long prime = p.calculatePrimes(20).get(19);
