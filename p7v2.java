@@ -1,8 +1,12 @@
-/*
- * makes a list of primes up to the specified number of primes or up to a certain arbitrary integer max
- */
+ /**
+  * @author 1n7erface7h1s 
+  * @email 1n7erface7h1s@gmail.com
+  * 
+  * I affirm that this program is entirely my own work and none of it is the work of any other person.
+  */ 
 import java.util.*;
 
+// makes a list of primes up to the specified number of primes or up to a certain arbitrary integer max
 public class p7v2 {
 
     public p7v2()
@@ -65,7 +69,9 @@ public class p7v2 {
         }
     }
     
-    
+    /**
+     * @params 
+     */
     public static void main(String[] args) {
       
         p7v2 p = new p7v2();
