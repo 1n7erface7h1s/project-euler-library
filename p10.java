@@ -8,6 +8,9 @@ import java.util.*;
 
 public class p10 {
 
+ /**
+  * @param args the command line arguments
+  */
     public static void main(String[] args) {
         
         p7v2 p = new p7v2();
