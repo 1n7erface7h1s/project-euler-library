@@ -1,6 +1,7 @@
 import java.util.*;
 import javax.swing.*;
 import java.lang.Number;
+
 public class p6 {
 
     /**
