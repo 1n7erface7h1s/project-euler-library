@@ -2,9 +2,8 @@
   * @author 1n7erface7h1s 
   * @email 1n7erface7h1s@gmail.com
   * 
-  * I affirm that the method definitions and import statement in this program 
-  * are entirely my own work and none of it is the work of any other person.
-  */
+  * I affirm that this program is entirely my own work and none of it is the work of any other person.
+  */ 
 import java.util.*;
 
 // finds the smallest number that can be divided evenly by any integer up to n
