@@ -7,7 +7,9 @@
   
 public class p14 {
 
-   
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
     
         int max = 0; int ans = 0; int cnt; 
