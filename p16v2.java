@@ -1,3 +1,7 @@
+import java.util.*;
+
+public class p16v2{
+
 public static void main(String[] args) {
         
         List<Integer> number = new ArrayList<Integer>();
@@ -25,3 +29,4 @@ public static void main(String[] args) {
         
         System.out.println(ans);
     }
+}
