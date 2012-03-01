@@ -8,6 +8,9 @@ import java.util.*;
 
 public class p16v2{
 
+ /**
+  * @param args the command line arguments
+  */
 public static void main(String[] args) {
         
         List<Integer> number = new ArrayList<Integer>();
