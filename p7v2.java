@@ -70,7 +70,7 @@ public class p7v2 {
     }
     
     /**
-     * @params 
+     * @param args the command line arguments
      */
     public static void main(String[] args) {
       
