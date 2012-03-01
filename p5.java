@@ -9,7 +9,9 @@ import java.util.*;
 // finds the smallest number that can be divided evenly by any integer up to n
 public class p5 {
 
-    
+     /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         
         
