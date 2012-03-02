@@ -1,15 +1,19 @@
-/*
- * finds the smallest number that can be divided evenly by any integer up to n
- */
+ /**
+  * @author 1n7erface7h1s 
+  * @email 1n7erface7h1s@gmail.com
+  * 
+  * I affirm that this program is entirely my own work and none of it is the work of any other person.
+  */ 
 import java.util.*;
 
+// finds the smallest number that can be divided evenly by any integer up to n
 public class p5 {
 
-    /**
+     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         
         p7v2 p = new p7v2(); long upTo = 10000000;
         ArrayList<Long> primes = p.calculatePrimesN(upTo);   

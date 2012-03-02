@@ -1,8 +1,15 @@
-
-
+ /**
+  * @author 1n7erface7h1s 
+  * @email 1n7erface7h1s@gmail.com
+  * 
+  * I affirm that this program is entirely my own work and none of it is the work of any other person.
+  */ 
+  
 public class p14 {
 
-   
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
     
         int max = 0; int ans = 0; int cnt; 

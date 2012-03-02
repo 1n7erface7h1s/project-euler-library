@@ -1,3 +1,16 @@
+ /**
+  * @author 1n7erface7h1s 
+  * @email 1n7erface7h1s@gmail.com
+  * 
+  * I affirm that this program is entirely my own work and none of it is the work of any other person.
+  */ 
+import java.util.*;
+
+public class p16v2{
+
+ /**
+  * @param args the command line arguments
+  */
 public static void main(String[] args) {
         
         List<Integer> number = new ArrayList<Integer>();
@@ -25,3 +38,4 @@ public static void main(String[] args) {
         
         System.out.println(ans);
     }
+}
